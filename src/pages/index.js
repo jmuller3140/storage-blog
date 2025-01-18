@@ -52,7 +52,17 @@ const BlogIndex = ({ data, location }) => {
                     marginBottom: '0.5rem',
                     color: '#000'
                   }}>
-                    <Link to={post.fields.slug} itemProp="url">
+                    <Link 
+                      to={post.fields.slug} 
+                      itemProp="url"
+                      style={{
+                        textDecoration: 'none',
+                        color: 'inherit',
+                        transition: 'color 0.2s ease'
+                      }}
+                      onMouseEnter={e => e.target.style.color = '#666'}
+                      onMouseLeave={e => e.target.style.color = '#000'}
+                    >
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
