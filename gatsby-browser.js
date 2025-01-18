@@ -12,7 +12,7 @@ import "prismjs/themes/prism.css"
 import posthog from 'posthog-js'
 
 export const onClientEntry = () => {
-  if (typeof window !== 'undefined') {
+  if (typeof window !== 'undefined' && process.env.GATSBY_POSTHOG_API_KEY) {
     posthog.init(
       process.env.GATSBY_POSTHOG_API_KEY,
       {
@@ -20,6 +20,7 @@ export const onClientEntry = () => {
         loaded: (posthog) => {
           if (process.env.NODE_ENV === 'development') posthog.debug()
         },
+        capture_pageview: true,
       }
     )
   }
