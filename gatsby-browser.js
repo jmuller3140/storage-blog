@@ -26,10 +26,5 @@ export const onClientEntry = () => {
         capture_pageview: true,
       }
     )
-  } else {
-    console.log('PostHog not initialized:', {  // Debug log
-      hasWindow: typeof window !== 'undefined',
-      hasKey: !!process.env.GATSBY_POSTHOG_API_KEY
-    })
   }
 }
