@@ -11,4 +11,4 @@ Being Written...
 
 ---
 
-*Need Storage and live in NYC? Contact us at jimmy@boringstorage.com to discuss your specific needs and opportunities.*
+*Need Storage and live in NYC? Contact us at support@boringstorage.com to discuss your specific needs and opportunities.*
