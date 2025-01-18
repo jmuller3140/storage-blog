@@ -39,7 +39,7 @@ The kicker here is software is still integral to every business going forward bu
 ## Bright Spots
 Despite the nature of AI on the workplace, it has never been better to start building in spaces that traditionally has never been able to easily be reached by software -- non-SaaS companies. Frankly, I think most of the talented people in the world for the past 20 years were software guys and it was hard to have the incentive to innovate outside of the world of bits. Now in 2025, hardware innovation and real world services are about to see the anceillary gains from AI because software development and labor costs are going to continue to drop.
 
-If you're not building rocketsships to Mars, robot butlers, VR, military equipment, drones, autonomous vehicles, or anything else that is not manifesting outside the screen of the computer, it will be a pretty big uphill battle to get your company to scale and to have staying power. 
+If you're not building rocketships to Mars, robot butlers, VR, military equipment, drones, autonomous vehicles, or anything else that is not manifesting outside the screen of the computer, it will unironically be a pretty big uphill battle to get your company to scale and to have staying power past 2-5 years. 
 
 This has led me to take a pretty low hanging fruit idea and see if I can get it to work -- a physical storage business (more on this later).
 
