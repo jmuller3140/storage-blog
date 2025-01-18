@@ -5,11 +5,11 @@ description: "Examining how AI is reshaping SaaS and the future of tech work"
 ---
 
 ## The Diagnosis
-SaaS (software as a service), the categorical Silicon Valley darling is about to go through a giant upheaval. It is already happening. Dev jobs are either being offshored or companies are hiring via contract only and the glory days of getting paid 6 figs for an overpaid CRUD engineering gig will be a thing of the past in a couple years. Salesforce decided to notoriously decided to not hire any Software Engineers this year. See article [here](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/).
+SaaS (software as a service), the categorical Silicon Valley darling is about to go through a giant upheaval. It is already happening. Dev jobs are either being offshored or companies are hiring via contract only and the glory days of getting paid 6 figs for an overpaid CRUD engineering gig will be a thing of the past in a couple years. As a recent example,Salesforce decided to notoriously decided to not hire any Software Engineers this year. See article [here](https://www.salesforceben.com/salesforce-will-hire-no-more-software-engineers-in-2025-says-marc-benioff/).
 
-Companies are now starting to realize their only real moat was sales connections or tech execution. Tech famously does not have an IP regulatory regime that prevents companies from copying functionality or features which is causing both breakneck innovation but now due to AI, this is causing labor commoditization. 
+Companies are now starting to realize their only real moat was sales connections or tech execution. Tech famously does not have an IP regulatory regime that prevents companies from copying functionality or features which resulted in breakneck innovation, but due to AI this is causing labor commoditization. 
 
-And the commoditzation will seemingly continue.
+And the commoditzation will seemingly continue and the tech roles will be reduced.
 
 Even PG is getting blown away.
 <blockquote class="twitter-tweet">
@@ -25,13 +25,13 @@ Unfortunatley there is no sign of this slowing down. If you check out this FRED 
 
 ![Software Development Job Postings](./fred.png)
 
-I see this as a mark of not only software engineering becoming more commoditized, but the tech sector as a whole.
+This is a mark of not only the menial software engineering role becoming less valuable, but the tech sector as a whole. It turns out after all the years of the middle managers telling their manager that the bottlebeck was a engineering shortage, the real issue was actual value creating ideas and the risk appetite to execute them. 
 
-It may get worse, and the bar for software engineering in order to maintain employement will be higher, but it is very clear if you want to continue working in tech lucratively, you need to start building or else your current job will slowly become a relic of the past. Like using morse code to send a message instead of a text -- sure you can write code the bespoke specialized way, but why can't I just prompt my features into existence instead?
+It will probably get worse, or at the very least the bar for software engineering will rise in order to maintain employement at legacy companies.  It seems clear if you want to continue working in tech lucratively, you need to start building in your spare time. The risk of not building and learning outside of the typical work domain is your specialized engineering domain will just be canabalized by generic AI prompts and the current job will slowly become a relic of the past. Similar to the days of using morse code to send a message -- sure, in 2025 you can write code the bespoke code but wouldn't it be easier to just prompt features into existence instead? See [Replit](https://replit.com), [Cursor](https://cursor.sh), [v0](https://v0.dev).
 
-The issue is in 2025 if you want to start a (tech) company, you need to have a predictable amount of staying power. AI has flipped execution moats on it's head. At once point there was a meme floating around that every time OpenAI did a product release, it would wipe out an entire batch of YC companies. Now that the FAANGs of the world are also all in building AI tooling, it is even more difficult to build an execution moat that can predictably guarantee your SaaS startup will have PMF or pricing power in 2 years.
+The issue is in 2025 if you want to start a (tech) company, you need to have a predictable amount of staying power. AI has flipped execution moats on it's head. At one point there was a meme floating around that every time OpenAI did a product release, an entire batch of YC companies would be wiped out. Now that the FAANGs of the world are also all in building AI tooling, it is even more difficult to build an execution moat that can predictably guarantee your SaaS startup will have PMF or pricing power in 2 years.
 
-Of course there will be new winners in the space of AI and tooling, but it is becoming more and more difficult to predict what will be the next big thing. Even if there's a viable idea that works out, it will take signficantly less time to commoditize that idea and destroy the pricing power of said company. 
+This of course does not mean there will not be new winners. The space of AI and tooling is still wide open, but the competition is more and more fierce. This is even indicative for VCs, many indicating that they have no idea who will win long term. Even if there's a viable idea that works out, it will take signficantly less time to commoditize that idea and destroy the pricing power of said company. Especially due to the compute costs long term. More than likely, these startups will catch lightning in a bottle and get acquired due to not having their own infrastructure. There is a natural cap of the upper limit of these AI startups. 
 
 The kicker here is software is still integral to every business going forward but the only pure software businesses that have staying power will be ones with network effects -- the traditional SaaS model will and is being commoditized.
 
