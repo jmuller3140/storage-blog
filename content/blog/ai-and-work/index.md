@@ -1,6 +1,6 @@
 ---
 title: "The State of SaaS and Tech Work"
-date: "2024-03-21"
+date: "2025-01-18"
 description: "Examining how AI is reshaping SaaS and the future of tech work"
 ---
 

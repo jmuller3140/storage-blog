@@ -1,7 +1,6 @@
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 
-import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
@@ -23,7 +22,11 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <ol style={{ listStyle: `none` }}>
+      <ol style={{ 
+        listStyle: `none`,
+        maxWidth: '650px',
+        margin: '0 auto'
+      }}>
         {posts.map(post => {
           const title = post.frontmatter.title || post.fields.slug
 
@@ -33,14 +36,33 @@ const BlogIndex = ({ data, location }) => {
                 className="post-list-item"
                 itemScope
                 itemType="http://schema.org/Article"
+                style={{
+                  fontFamily: '"Courier New", Courier, monospace',
+                  fontSize: '0.95rem',
+                  lineHeight: '1.6',
+                  color: '#1a1a1a',
+                  marginBottom: '2rem'
+                }}
               >
                 <header>
-                  <h2>
+                  <h2 style={{
+                    fontFamily: '"Courier New", Courier, monospace',
+                    fontSize: '1.8rem',
+                    fontWeight: 'normal',
+                    marginBottom: '0.5rem',
+                    color: '#000'
+                  }}>
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
+                  <small style={{ 
+                    fontFamily: '"Courier New", Courier, monospace',
+                    fontSize: '0.9rem', 
+                    color: '#444',
+                    marginBottom: '2rem',
+                    display: 'block'
+                  }}>{post.frontmatter.date}</small>
                 </header>
                 <section>
                   <p
@@ -48,6 +70,10 @@ const BlogIndex = ({ data, location }) => {
                       __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
+                    style={{
+                      fontFamily: '"Courier New", Courier, monospace',
+                      marginBottom: '1.5rem'
+                    }}
                   />
                 </section>
               </article>
