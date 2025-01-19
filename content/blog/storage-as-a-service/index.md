@@ -33,7 +33,9 @@ Anyone that has been in NYC may remember a company called MakeSpace. MakeSpace w
 
 The mission here, in a post AI world, is just to make a MakeSpace 2.0. more cheaply and reduce the overhead of the business. If you can modernize the storage business and create a faster, and cheaper storage service in a dinosaur industry, I think it's a no brainer. The beauty is storage may not be a sexy business, but it is a stable one. Being able to achieve a cash flow generating monster of (at minimum) a couple millions of dollars of profit but being able to count on it for a lifetime is pretty great.
 
-I'm just an indie hacker, and professional software engineer but I think the opportunity to build a modern storage company with the 10x productivity gains from AI coding tools, I'm confident I can replicate the internal application services of the ole' MakesSpace and some.
+I'm just an indie hacker, and professional software engineer but I think the opportunity to build a modern storage company with the 10x productivity gains of the modern tech stack is as safe of a bet as they come. I'm confident I can replicate the internal application services of the ole' MakesSpace and some.
+
+We will also take way better care of your goods.
 
 Let's see if it can be done.
 
