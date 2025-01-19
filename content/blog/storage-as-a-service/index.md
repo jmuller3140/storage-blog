@@ -10,7 +10,7 @@ tags: ["cloud", "storage", "business", "SaaS"]
 ## The Current Analysis
 Storage as a service is an amazing best business. It is as close to SaaS as you can get without actually being a software company.
 
-As any PE person many tell you, the mark of a good SaaS company is the fact that COGs are essentially zero at scale. VCs love SaaS companies because the profit margins historically could be as high as 20% and there is minimal overhead. Unfortunatly, being a "real world service" ensures there are in fact real COGs but in regards to reoccuring revenue and demand stability, storage is good as you can get.
+As any PE person many tell you, the mark of a good SaaS company that COGs are essentially zero at scale and the profit margins are 20%. Unfortunatly, being a "real world service" ensures there are in fact real COGs but in regards to reoccuring revenue and demand stability, storage is good as you can get.
 
 The main benefit of storage is the fact that the demand is evergreen. It can be traced back as far as ancient Rome when climate controlled storehouses were built to store grain. And the beauty of NYC is that there is never enough space. The human desire for more space is built into the DNA of the city -- in fact it is a primary trait. You can't really call yourself a New Yorker unless you shared an apartment with 3 other strangers living in a 1200 sq ft apartment.
 
