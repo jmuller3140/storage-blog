@@ -35,7 +35,9 @@ The mission here, in a post AI world, is just to make a MakeSpace 2.0. more chea
 
 I'm just an indie hacker, and professional software engineer but I think the opportunity to build a modern storage company with the 10x productivity gains from AI coding tools, I'm confident I can replicate the internal application services of the ole' MakesSpace and some.
 
-Let's see if I can do it.
+Let's see if it can be done.
+
+More on my plans for the execution later.
 
 
 
