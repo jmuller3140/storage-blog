@@ -1,7 +1,7 @@
 ---
 title: "Storage-as-a-Service"
 date: "2025-01-18"
-description: "Physical storage is the best business"
+description: "Cloud storage is out. Physical storage is in."
 tags: ["cloud", "storage", "business", "SaaS"]
 ---
 
