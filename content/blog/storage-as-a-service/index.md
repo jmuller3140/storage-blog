@@ -8,7 +8,7 @@ tags: ["cloud", "storage", "business", "SaaS"]
 # Storage-as-a-Service
 
 ## The Current Analysis
-Storage as a service is an amazing best business. It is as close to SaaS as you can get without actually being a software company.
+Physical Storage as a service is an amazing business. It is as close to SaaS as you can get while having real world COGs.
 
 As any PE person many tell you, the mark of a good SaaS company that COGs are essentially zero at scale and the profit margins are 20%. Unfortunatly, being a "real world service" ensures there are in fact real COGs but in regards to reoccuring revenue and demand stability, storage is good as you can get.
 
