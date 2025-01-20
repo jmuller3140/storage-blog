@@ -1,7 +1,7 @@
 ---
 title: "Company Building: How do you bootstrap a Storage Company?"
 date: "2025-01-19"
-description: "Exploring innovative strategies for building a capital-efficient storage business in an AI-driven world."
+description: "How do you do it?"
 tags: ["business", "entrepreneurship", "startup", "indie-hacking", "makespace"]
 ---
 
