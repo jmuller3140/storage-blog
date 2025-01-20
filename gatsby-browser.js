@@ -23,8 +23,17 @@ export const onClientEntry = () => {
           console.log('PostHog loaded')  // Debug log
           if (process.env.NODE_ENV === 'development') posthog.debug()
         },
-        capture_pageview: true,
+        capture_pageview: false, // Disable automatic pageview capture
       }
     )
+  }
+}
+
+export const onRouteUpdate = ({ location }) => {
+  if (typeof window !== 'undefined' && posthog) {
+    posthog.capture('$pageview', {
+      url: location.pathname,
+      title: document.title,
+    })
   }
 }
