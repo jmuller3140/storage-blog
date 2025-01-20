@@ -55,11 +55,11 @@ Despite AI's disruptive impact on traditional software work, we're entering an e
 
 The most promising opportunities lie in businesses that combine software with physical products or tangible services - areas that have historically been underserved by pure software solutions. Think:
 
-- Hardware innovation (rockets, robotics, VR devices)
-- Infrastructure and logistics (autonomous vehicles, drones)
-- Healthcare and biotech (medical devices, diagnostic tools)
-- Physical services augmented by software
-- Defense and security systems
+Hardware innovation (rockets, robotics, VR devices)
+Infrastructure and logistics (autonomous vehicles, drones)
+Healthcare and biotech (medical devices, diagnostic tools)
+Physical services augmented by software
+Defense and security systems
 
 These sectors benefit from natural moats that pure software struggles to replicate: physical infrastructure, regulatory requirements, and complex supply chains. While software remains crucial to these businesses, it's no longer the primary differentiator - it's an enabler for solving real-world problems outside of the world of bits.
 
