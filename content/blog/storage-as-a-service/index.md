@@ -12,7 +12,7 @@ In an era where AI is rapidly commoditizing traditional software businesses, the
 While many traditional industries are ripe for software modernization, physical storage stands out as particularly compelling. Not only does it have natural defenses against AI disruption, but it also shares many characteristics with the SaaS business model that tech investors have come to love.
 
 ## The Current Analysis
-To understand why physical storage is compelling, let's compare it to the economics of SaaS businesses - the darling of the tech industry for the past two decades. SaaS companies like [Salesforce report operating margins of 5%][1], [Zoom at 20%][2], and [Microsoft at 42%][3] after factoring in all operating costs including sales, marketing, R&D, and corporate overhead. These numbers tell a story of businesses that, despite their "software margins," spend heavily to maintain growth and fight competition.
+To understand why physical storage is compelling, let's compare it to the economics of SaaS businesses - the darling of the tech industry for the past two decades. SaaS companies like [Salesforce report operating margins of 5%][1], [Zoom at 39%][2], and [Microsoft at 42%][3] after factoring in all operating costs including sales, marketing, R&D, and corporate overhead. These numbers tell a story of businesses that, despite their "software margins," spend heavily to maintain growth and fight competition.
 
 For storage businesses, we need to be careful with comparisons. While [Public Storage reports a 71% NOI margin][4] and [Extra Space Storage reports 70%][5], these numbers exclude corporate overhead and debt costs. Their actual operating margins are lower, though still impressive - Public Storage's operating margin was around 49% in 2023 after including all corporate expenses. 
 
@@ -41,8 +41,8 @@ In my next post, I'll break down the specific technical and operational approach
 *Need Storage and live in NYC? Contact us at support@boringstorage.com to discuss your specific needs and opportunities.*
 
 [1]: https://s23.q4cdn.com/574569502/files/doc_financials/2024/q3/CRM-Q3-FY24-Earnings-Press-Release-w-financials.pdf
-[2]: https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q1/press-release-webcast
-[3]: https://www.adobe.com/content/dam/cc/en/investor-relations/pdfs/Adobe-Q4FY23-Earnings-Press-Release.pdf
+[2]: https://investors.zoom.us/news-releases/news-release-details/zoom-video-communications-reports-financial-results-third-quarter
+[3]: https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q1/press-release-webcast
 [4]: https://ir.publicstorage.com/news-and-events/press-releases/2024/02-20-2024-210351410
 [5]: https://ir.extraspace.com/news/press-release-details/2024/Extra-Space-Storage-Inc.-Reports-2023-Fourth-Quarter-and-Year-End-Results/default.aspx
 [6]: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-self-storage-reit-same-store-noi-growth-to-moderate-in-2024-after-strong-2023-78579471
