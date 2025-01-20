@@ -40,12 +40,12 @@ In my next post, I'll break down the specific technical and operational approach
 
 *Need Storage and live in NYC? Contact us at support@boringstorage.com to discuss your specific needs and opportunities.*
 
-[1]: https://investor.salesforce.com/financials/default.aspx
-[2]: https://www.microsoft.com/investor/reports/ar23/index.html
-[3]: https://www.adobe.com/investor-relations/financial-documents.html
-[4]: https://investors.publicstorage.com/news-and-events/press-releases/press-release-details/2024/Public-Storage-Reports-Results-for-the-Fourth-Quarter-and-Year-Ended-December-31-2023/default.aspx
-[5]: https://ir.extraspace.com/quarterly-results
-[6]: https://investors.publicstorage.com/investor-resources/historical-financial-data/default.aspx
-[7]: https://www.crunchbase.com/organization/makespace/company_financials
-[8]: https://www.forbes.com/sites/alejandrocremades/2019/03/21/this-entrepreneur-raised-131-million-to-make-storage-more-convenient/
-[9]: https://techcrunch.com/2021/05/11/clutter-acquires-the-storage-fox-for-152m-to-add-self-storage-to-its-on-demand-platform/
+[1]: https://s23.q4cdn.com/574569502/files/doc_financials/2024/q3/CRM-Q3-FY24-Earnings-Press-Release-w-financials.pdf
+[2]: https://www.microsoft.com/en-us/Investor/earnings/FY-2024-Q1/press-release-webcast
+[3]: https://www.adobe.com/content/dam/cc/en/investor-relations/pdfs/Adobe-Q4FY23-Earnings-Press-Release.pdf
+[4]: https://ir.publicstorage.com/news-and-events/press-releases/2024/02-20-2024-210351410
+[5]: https://ir.extraspace.com/news/press-release-details/2024/Extra-Space-Storage-Inc.-Reports-2023-Fourth-Quarter-and-Year-End-Results/default.aspx
+[6]: https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/us-self-storage-reit-same-store-noi-growth-to-moderate-in-2024-after-strong-2023-78579471
+[7]: https://www.bloomberg.com/news/articles/2021-05-11/storage-startup-clutter-buys-rival-makespace-to-expand-in-cities
+[8]: https://www.wsj.com/articles/storage-marketplace-clutter-makes-its-third-acquisition-11620734400
+[9]: https://techcrunch.com/2019/03/20/on-demand-storage-company-makespace-has-a-new-ceo-and-fresh-55-million-in-funding/
