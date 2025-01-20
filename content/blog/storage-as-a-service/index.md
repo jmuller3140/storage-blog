@@ -20,10 +20,6 @@ What makes this particularly interesting is the cost structure: while SaaS compa
 
 What's even more compelling is the stability of these economics over time. While SaaS companies face constant pressure to innovate and spend more on customer acquisition, storage businesses have demonstrated remarkable resilience. During the 2008 financial crisis, [Public Storage maintained occupancy rates above 90%][6], and in 2020's pandemic, the self-storage sector was one of the few real estate segments that maintained steady revenue and margins. This stability stems from the fundamental nature of the business - people's need for storage tends to increase during both economic expansions (more consumption) and contractions (downsizing). Compare this to the current SaaS landscape, where companies face a double threat: rising customer acquisition costs and increasing pressure from AI commoditization.
 
-## The Market
-If you look up storage facilities in NYC, you will find a plethora of them. The main business model of self-storage is a simple rent arbitrage. According to the site Storagense, self-storage profit margins can be as high as 41%, and "Reports show that an impressive 38% of Americans have rented a self-storage unit or planned to do so in the future."
-
-You don't need to be good at math to figure out that, as long as you have enough to pay your debt premiums, you're good to go. The business rolls over year over year, and if someone decides not to pay up, you own their goods as collateral. Storage is as SaaS-y a business as it comes, with added benefits. 
 
 ## The Opportunity
 The opportunity becomes clearer when looking at MakeSpace, a notable attempt to modernize the storage industry. Founded in 2013, MakeSpace raised over [$131 million in venture funding][1] trying to build a "tech-enabled" storage company. Their vision was compelling: replace the traditional self-storage model with a full-service solution including pickup, photo cataloging, and on-demand delivery, all managed through a mobile app. By 2019, they had expanded to [24 markets and reached a $305 million valuation][2].
