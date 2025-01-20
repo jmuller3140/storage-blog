@@ -31,7 +31,7 @@ It will probably get worse, or at the very least the bar for software engineerin
 
 Domain specific software engineering roles are the most at risk. 
 
-Frontend, backend, and devops specialization where one domain engineer may not have to know about the impliementation or skills to contribute in another domain will soon see their value diminish -- not because their skills are not needed, but because with the speed of execution enabled by AI, teams will find there is not enough actionable, business value generating work to do.
+Frontend, backend, and devops specialization where one domain engineer may not have to know about the impliementation or skills to contribute in another domain will soon see their value diminish -- not because their skills are not needed, but because with the speed of execution enabled by AI, teams will find there is not enough actionable, business value generating work to go around.
 
 The engineer that can do a bit of everything will end up surviving and the engineer that is domain specific will face fierce competition with the dwindling number of domain constraining roles that exist. The true "full stack" engineer will be the new normal.
 
