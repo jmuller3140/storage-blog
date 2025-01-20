@@ -25,7 +25,7 @@ Unfortunately, there is no sign of this slowing down. If you check out this FRED
 
 ![Software Development Job Postings](./fred.png)
 
-This is a mark of not only the menial software engineering role becoming less valuable, but the tech sector as a whole. It turns out after all the years of the middle managers telling their manager that the bottleneck was a engineering shortage, the real issue was actual value creating ideas and the risk appetite to execute them. 
+This is a mark of not only the menial software engineering role becoming less valuable, but the tech sector as a whole. It turns out after all the years of the middle managers telling their manager that the bottleneck was an engineering shortage, the real issue was actual value creating ideas and the risk appetite to execute them. 
 
 It will probably get worse, or at the very least the bar for software engineering will rise in order to maintain employment at legacy companies.  It seems clear if you want to continue working in tech lucratively, you need to start building in your spare time. The risk of not building and learning outside of the typical work domain is your specialized engineering domain will just be cannibalized by generic AI prompts and the current job will slowly become a relic of the past. Similar to the days of using morse code to send a message -- sure, in 2025 you can write bespoke code but wouldn't it be easier to just prompt features into existence instead? See [Replit](https://replit.com), [Cursor](https://cursor.sh), [v0](https://v0.dev).
 
@@ -40,11 +40,11 @@ So what can be avoided here to ensure you don't get caught in the wave of commod
 A natural answer might seem to be "start your own company", as one can use the commoditization to their advantage - but even that path has become more complex in the AI era.
 
 ## Building a Business
-The issue is that in 2025, if you want to start a tech company (probably SaaS), you need to have a predictable amount of staying power. Now there is no guaruntee that your product will last longer than a couple years before being commoditized. Especially if you're b2b SaaS.
+The issue is that in 2025, if you want to start a tech company (probably SaaS), you need to have a predictable amount of staying power. Now there is no guarantee that your product will last longer than a couple years before being commoditized. Especially if you're b2b SaaS.
 
 You used to be able to leverage talented engineers to build a product that was unique and had a moat solely based on execution. However, the replicative nature of AI has flipped execution moats on its head, and companies are already starting to realize that they can leverage productivity gains from AI to build all of their b2b 3rd party tooling inhouse for a fraction of the cost. As long as it has been done before, with just the right amount of compute, AI can quickly replicate work that has already been done to the right prompter. Execution moats are largely dead.
 
- At one point there was a meme floating around that every time OpenAI did a product release, an entire batch of YC companies would be wiped out. Now that their are OpenAI competitors, it is even more difficult to build an execution moat in SaaS that can predictably guarantee your startup will have PMF or pricing power in 2 years.
+ At one point there was a meme floating around that every time OpenAI did a product release, an entire batch of YC companies would be wiped out. Now that there are OpenAI competitors, it is even more difficult to build an execution moat in SaaS that can predictably guarantee your startup will have PMF or pricing power in 2 years.
 
 This of course does not mean there will not be new winners. The space of AI and tooling is still wide open, but the competition is more and more fierce. This is even indicative for VCs, many indicating that they have no idea who will win long term. 
 
