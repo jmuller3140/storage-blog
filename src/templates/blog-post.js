@@ -24,6 +24,11 @@ const BlogPostTemplate = ({
 
   return (
     <Layout location={location} title={siteTitle}>
+      <nav className="blog-post-nav" style={{ marginBottom: '1rem' }}>
+        <Link to="/" style={{ fontFamily: '"Courier New", Courier, monospace', fontSize: '0.9rem' }}>
+          ← Back to Main Page
+        </Link>
+      </nav>
       <article
         className="blog-post"
         itemScope
