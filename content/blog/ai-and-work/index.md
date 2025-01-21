@@ -39,7 +39,7 @@ The issue is that in 2025, if you want to start a tech company, you need to have
 
 You used to be able to leverage talented engineers to build a product that was unique and had a moat solely based on execution. However, the replicative nature of AI has flipped execution moats on its head, and companies are already starting to realize that they can leverage productivity gains from AI to build all of their b2b 3rd party tooling inhouse for a fraction of the cost. As long as it has been done before, with just the right amount of compute, AI can quickly replicate work that has already been done to the right prompter. Execution moats are largely dead.
 
-This of course does not mean there will not be new winners. If you can draw enough Twitter engineering autists into one company, you can probably build a sustainable execution moat to last a few years. But this is not a sustainable business model for most companies.
+This of course does not mean there will not be new winners. But it is harder than ever to predict how long a business will last even if PMF is found.
 
 ## Bright Spots
 Despite AI's disruptive impact on traditional software work, we're entering an exciting era where software's benefits can finally extend beyond pure digital products. Now in 2025, as software development costs plummet due to AI, we're seeing a renaissance in hardware innovation and real-world services.
