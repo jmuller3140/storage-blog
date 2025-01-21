@@ -22,6 +22,13 @@ export const onClientEntry = () => {
         loaded: (posthog) => {
           console.log('PostHog loaded')  // Debug log
           if (process.env.NODE_ENV === 'development') posthog.debug()
+          
+          // Identify unidentified users
+          if (!posthog.get_distinct_id()) {
+            const anonymousId = `anonymous_${Math.random().toString(36).substring(2, 15)}`;
+            posthog.identify(anonymousId);
+            console.log(`Unidentified user logged with ID: ${anonymousId}`);  // Debug log
+          }
         },
         capture_pageview: false, // Disable automatic pageview capture
       }
