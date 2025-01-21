@@ -19,13 +19,15 @@ Moreover, these SaaS solutions (the ones that are generic enough) will be releas
 
 Besides generating upfront revenue, this model is beneficial for a couple reasons:
 
-1. Our primary customer in building software is for our own business. This gives us a start in regards to finding PMF because we solve our own problems first. We don't need to do discovery if we are building for ourselves. We hope this applies to others as well, but it's not the end goal if it doesn't. Moreover, most of the best startups were built by people who were solving their own problems first.
+1. Our primary customer in building software is ourselves. This gives us a start in regards to finding PMF because we solve our own problems first. We don't need to do discovery if we are building for ourselves. We hope this applies to others as well, but it's not the end goal if it doesn't. Moreover, most of the best startups were built by people who were solving their own problems first.
 
 2. When SaaS companies experience profit declines, there is an existential crisis. They scale up due to the overnight influx of quick capital, but now against the backdrop of AI their competitive advantage could be gone overnight, and they have to go through the painful process of scaling down. Because our north star is to grow the storage business, it will (hopefully) keep us honest and focused on the long term, focusing on key features and ignoring the rest. This will keep us lean and continuously profitable from day one, even if the margins shrink in the long term.
 
 3. Many SaaS companies generate the majority of their revenue from just one or two key products (SKUs). They often reinvest a significant portion of their profits into research and development (R&D) to replicate their initial success and expand their revenue streams. However, this approach can lead to a cycle of developing new features and products that do not generate the expected revenue, resulting in wasted efforts and resources. In contrast, the storage business offers linear scalability and is a high-intent, "always in demand" industry. This inherent demand helps prevent wasted cycles, allowing us to focus on sustainable growth and long-term profitability.
 
 By integrating SaaS solutions into our business model, we can create a balanced approach that combines the stability and revenue potential of software with the tangible assets of a storage company. This strategy allows us to innovate and grow sustainably, ensuring that we can meet the demands of modern customers while maintaining financial health.
+
+
 
 ---
 *If you're passionate about building innovative solutions and want to be part of Boring Storage's journey, we'd love to hear from you. Reach out to us at support@boringstorage.com to explore how you can contribute to our mission.*
