@@ -112,7 +112,7 @@ This role needs to reflect a **full-time workload**—right now, the **effort an
 
 ✅ **More work needs to be done—this must reflect a full-time workload.**  
 ✅ **Velocity must increase significantly—tasks should move quickly, not stretch over multiple days.**  
-✅ **Proactive engagement is required—I shouldn't have to check in to know what's happening.**  
+✅ **Proactive engagement is required — I shouldn't have to check in to know what's happening -- I should be told what's happening in real time or close to it.**  
 
 ---
 
@@ -120,5 +120,4 @@ This role needs to reflect a **full-time workload**—right now, the **effort an
 
 This role comes with **significant equity potential**, but that means **the impact has to be 3-5x what I could do on my own.** That only happens if both the **hours worked and the output scale significantly.**  
 
-If this pace is just how you work, that's okay—but it means this **isn't a fit.** If you can step up, I want to see that **immediately—starting this week.**  
-
+If this pace is just how you work, that's okay—but it means this **isn't a fit.** If you can step up, I want to support you in making that transition. Our friendship matters to me, and you can choose to step away at any time without it affecting our relationship. For both our sakes, I'd appreciate your honest reflection and decision on this soon. The choice is yours, and I'm here to discuss how we move forward together.
