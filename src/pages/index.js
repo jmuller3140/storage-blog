@@ -6,7 +6,9 @@ import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
-  const posts = data.allMarkdownRemark.nodes
+  const posts = data.allMarkdownRemark.nodes.filter(post => 
+    !post.fields.slug.includes('internal')
+  )
 
   if (posts.length === 0) {
     return (
@@ -113,7 +115,11 @@ export const pageQuery = graphql`
     }
     allMarkdownRemark(
       sort: { frontmatter: { date: DESC } }
-      filter: { fileAbsolutePath: { regex: "/content/blog/" } }
+      filter: { 
+        fileAbsolutePath: { 
+          regex: "/content/blog/"
+        } 
+      }
     ) {
       nodes {
         excerpt
