@@ -21,17 +21,6 @@ For perspective, typical equity grants for early employees (non-founder, non-C-s
 
 The first month serves as an evaluation period to determine if this partnership can work at the level required. As outlined in the [performance expectations](../eval), current performance needs significant improvement to justify this equity grant.
 
-### **Performance Thresholds for Equity Vesting**
-
-To earn the full 10% equity grant, performance must consistently maintain:
-
-| Category | Required Score | Current Score |
-|----------|----------------|---------------|
-| Efficiency | 8+ | 3-4 |
-| Productivity | 8+ | 4 |
-| Communication | 8+ | 3-4 |
-| Proactiveness | 8+ | 3 |
-
 ## **Vesting Structure**
 
 If performance requirements are met after the trial period:
